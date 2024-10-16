@@ -6,7 +6,7 @@ Copy and paste the code below and press enter
 ```
 PowerShell -Command "irm https://get.activated.win | iex"
 exit
-exit
+bye
 ```
 
 You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation. Choose [4] for All activation
