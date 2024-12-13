@@ -1,4 +1,4 @@
-Method 1 - PowerShell (Windows 8 and later) ❤️
+Method 1 - PowerShell (Windows 10 and later) ❤️
 Open CMD from the Windows start menu, To do that.Copy and paste the code below and press enter
 ```
 PowerShell -Command "irm https://get.activated.win | iex"
